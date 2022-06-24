@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/egg-collect-website/static/css/main.af64c7a1.css",
+    "main.js": "/egg-collect-website/static/js/main.744631d7.js",
+    "static/media/egg.jpg": "/egg-collect-website/static/media/egg.4d911d051faadc659fa4.jpg",
+    "static/media/egg-2.jpg": "/egg-collect-website/static/media/egg-2.b8045f993804129ac790.jpg",
+    "index.html": "/egg-collect-website/index.html",
+    "main.af64c7a1.css.map": "/egg-collect-website/static/css/main.af64c7a1.css.map",
+    "main.744631d7.js.map": "/egg-collect-website/static/js/main.744631d7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af64c7a1.css",
+    "static/js/main.744631d7.js"
+  ]
+}
